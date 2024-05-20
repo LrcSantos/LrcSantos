@@ -1,12 +1,10 @@
-# Hi guys, eu sou o Lucas Santos!
+# Hi guys, I'm Lucas Santos!
 
-Bem-vindos ao meu perfil GitHub! Sou um estudante de Ciência da Computação na Universidade Federal de Minas Gerais (UFMG).
+Welcome to my GitHub profile! I'm a Computer Science student at the Federal University of Minas Gerais (UFMG).
 
-Aqui, pretendo mostrar um pouco do meu progresso como aluno e desenvolvedor. Atualmente, além da faculdade, estou fazendo um curso de Fullstack e outro relacionado à Ciência de Dados, e pretendo compartilhar meu percurso aqui com vocês.
+Here, I intend to showcase my progress as a student and developer. Currently, besides university, I'm taking a Fullstack course and another one related to Data Science. I plan to share my journey here with you.
 
-## 🔧 Tecnologias e Ferramentas
-- **Linguagens de Programação:** C, C++, Python, JavaScript
-- **Ferramentas de Desenvolvimento:** VS Code, Git
+## 🔧 Technologies and Tools
 
 ###
 
@@ -27,11 +25,9 @@ Aqui, pretendo mostrar um pouco do meu progresso como aluno e desenvolvedor. Atu
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-  ##
+##
 
-
-
-  ##
+##
  
 <div> 
   <a href="https://instagram.com/lrc_santos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
